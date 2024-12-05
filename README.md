@@ -25,3 +25,14 @@ This **Real-Time Face Recognition App** leverages OpenCV and the `face_recogniti
    ```bash
    git clone https://github.com/SubhashGovindharaj/Face_Recogintion.git
    cd Face_Recogintion
+
+Install Dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Run the Application:
+
+bash
+Copy code
+streamlit run app.py
